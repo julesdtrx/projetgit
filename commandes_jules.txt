@@ -1,0 +1,356 @@
+    1  ls
+    2  mkdir projet
+    3  ls
+    4  cd projet
+    5  git init
+    6  git remote
+    7  git remote https://github.com/julesdtrx/projetgit
+    8  git remote set-url https://github.com/julesdtrx/projetgit
+    9  git remote https://github.com/julesdtrx/projetgit.git
+   10  git init
+   11  git remote add origin https://github.com/julesdtrx/projetgit.git
+   12  git push origin main
+   13  git push origin master
+   14  git push origin main
+   15  git branch
+   16  git remote -v
+   17  git commit -m "test"
+   18  git config user.email "jules.dutriaux@efrei.net"
+   19  git config user.name "julesdtrx"
+   20  git commit -m "test"
+   21  git push origin main
+   22  git push origin master
+   23  git push origin test
+   24  git u
+   25  git push u origin
+   26  git push -u origin
+   27  touch test.txt
+   28  git add test.txt 
+   29  git push test.txt
+   30  git commit -m "test.txt"
+   31  git push test.txt
+   32  git branch -M main
+   33  git push -u origin main
+   34  cd ..
+   35  ls
+   36  cd Documents/
+   37  ls
+   38  cat token.txt 
+   39  cd ../projet/
+   40  ls
+   41  git push -u origin main
+   42  touch index.html
+   43  git add index.html 
+   44  git branch -m "PREMIER COMMIT HTML"
+   45  git branch -m "juleshtml"
+   46  git checkout "juleshtml"
+   47  git push -u origin juleshtml
+   48  git add index.html 
+   49  git push -u origin juleshtml
+   50  git add index.html 
+   51  git commit -m "pagehtml1"
+   52  git push -u origin juleshtml
+   53  git remove
+   54  rm -r test.txt 
+   55  git rm
+   56  git rm test.txt 
+   57  mkdir pages
+   58  cd pages/
+   59  touch page2.html
+   60  touch page3.html
+   61  cd ..
+   62  git add pages/
+   63  git commit -m "ajout du dosssier page"
+   64  git push origin juleshtml
+   65  git pull
+   66  git add pages/
+   67  git commit -m "ajout pages"
+   68  git push -u origin juleshtml
+   69  git pull
+   70  git checkout juleshtml
+   71  nano commandes.txt
+   72  git pull origin csshajar
+   73  git pull csshajar
+   74  git pull -u origin csshajar
+   75  git checkout csshajar
+   76  git branch -m "cssjulesmodif"
+   77  git checkout cssjulesmodif
+   78  git pull -u origin csshajar
+   79  git pull origin csshajar
+   80  ls
+   81  ls nesrine/
+   82  ls
+   83  rm nesrine
+   84  rm -rm nesrine
+   85  rm -r nesrine
+   86  lms
+   87  ls
+   88  cd style/
+   89  ls
+   90  nano style.css 
+   91  git checkout cssjules
+   92  git checkout cssjulesmodif
+   93  git add style/
+   94  cd ..
+   95  git add style/
+   96  git comit -m "comit du css modifie"
+   97  git commit -m "comit du css modifie"
+   98  git push -u origin cssjulesmodif
+   99  git checkout larissamobile
+  100  git pull origin larissamobile
+  101  git checkout larissamobile
+  102  git pull origin larissamobile
+  103  ls
+  104  nano mobile.css 
+  105  git branch -m "mobilejules"
+  106  git checkout mobilejules
+  107  git add mobile.css
+  108  git commit -m "ajout version mobile jules"
+  109  git push -u origin mobilejules
+  110  ls
+  111  git branch -m "htmlfinal"
+  112  git add index.html
+  113  nano index.html 
+  114  cp logo.jpg image/logo.jpg
+  115  rm logo.jpg 
+  116  git add index.html 
+  117  git commit -m "ajout html final"
+  118  git push -u htmlfinal
+  119  git push -u "htmlfinal"
+  120  git branch "htmlfinal"
+  121  git checkout htmlfinal
+  122  git branch
+  123  git add index.html 
+  124  git commit -m "commit du html final"
+  125  git push -u origin htmlfinal
+  126  ls
+  127  git branch cssfinal
+  128  git add style/
+  129  git commit -m "ajout dossier style final"
+  130  git push -u origin cssfinal
+  131  git branch -d cssfinal
+  132  git branch -D cssfinal
+  133  git branch -d cssfinal
+  134  git branch "cssfinal2"
+  135  git branch
+  136  git checkout cssfinal2
+  137  ls
+  138  git add style/
+  139  git commit -m "ajout du css final"
+  140  git push origin cssfinal2
+  141  git branch
+  142  git rm index.html
+  143  git rm mobile.css 
+  144  git branch "imagesfinal"
+  145  git add image/
+  146  git commit -m "ajout du dossier image"
+  147  git rm index.html
+  148  ls
+  149  git branch
+  150  git checkout imagesfinal 
+  151  git add image/
+  152  git add images/
+  153  ls
+  154  git add image/
+  155  git commit -m "ajout du dossier des images"
+  156  git push origin imagesfinal
+  157  cat image/
+  158  ls image/
+  159  ms
+  160  ls
+  161  ls image/
+  162  git branch
+  163  git add image/
+  164  git commit -m "ajout bonnes images"
+  165  git push origin imagesfinal
+  166  git branch "imagefin"
+  167  git add image/
+  168  git commit -m "ajout images fin"
+  169  ls image/
+  170  git push origin imagefin
+  171  git checkout main
+  172  git
+  173  git branch
+  174  git merge htmlfinal 
+  175  git commit -m "fusion de htmlfinal dans main"
+  176  git push origin main
+  177* 
+  178  git push origin main
+  179  git pull origin main
+  180  ls
+  181  git push origin main
+  182  git merge htmlfinal
+  183  git commit -m "fusion dans le main du html"
+  184  git push origin main
+  185  git branch
+  186  git merge htmlfinal
+  187  git commit -m "fusion main htmlfinal"
+  188  git push origin main
+  189  git pull origin main
+  190  git confige pull.rebase false
+  191  git config pull.rebase false
+  192  git pull origin main
+  193  ls
+  194  git push origin main
+  195  git log
+  196  git checkout bcbab61deecc47f7437ece1fe1e57e5775cd5056
+  197  git merge htmlfinal
+  198  git pull origin main
+  199  git pull origin htmlfinal
+  200  git list
+  201  git status
+  202  git add .
+  203  git rm .
+  204  git rm -r .
+  205  git exit
+  206  git branch
+  207  git merge imagefin
+  208  git merge --abort
+  209  git merge imagefin
+  210  git commit -m "fusions des images"
+  211  git push origin main
+  212  git pull origin imagefin
+  213  git push origin main
+  214  git pull
+  215  git push origin main
+  216  git pull origin main
+  217  git add index.html 
+  218  git commit -m "fichier conflit"
+  219  git push origin main
+  220  git merge htmlfinal
+  221  git commit -m "fusion html"
+  222  git push origin main
+  223  git merge cssfinal
+  224  git merge origin/cssfinal
+  225  git commit -m "fusion css final"
+  226  git push origin main
+  227  ls
+  228  rm tapati.txt test2.txt test4.txt test5.txt test.txt jj.txt fichier.txt 
+  229  ls
+  230  rm deux.txt 
+  231  git merge cssfinal2
+  232  git pull origin cssfinal2
+  233  git pull origin main
+  234  git status
+  235  git add index.html 
+  236  git merge cssfinal2
+  237  git merge --abort
+  238  git merge cssfinal2
+  239  git add index.html 
+  240  git push origin main
+  241  git merge cssfinal2
+  242  git merge --abort
+  243  git merge cssfinal2
+  244  git status
+  245  git pull origin main
+  246  git status
+  247  git add index.html 
+  248  git push origin
+  249  git status
+  250  git merge cssfinal2
+  251  git merge --abort
+  252  git status
+  253  git merge cssfinal2
+  254  git restore .
+  255  git rm .
+  256  git rm -r .
+  257  git commit -m "suppression fichier"
+  258  git push origin
+  259  git status
+  260  ls
+  261  git merge htmlfinal
+  262  git commit -m "fusioin html final"
+  263  git push origin main
+  264  git branch
+  265  git pull origin main
+  266  git merge htmlfinalk
+  267  git merge htmlfinal
+  268  git commit -m "FUSION HTML"
+  269  git push origin main
+  270  git diff htmlfinal
+  271  git pull origin htmlfinal
+  272  ls
+  273  git merge --abort
+  274  git pull origin htmlfinal
+  275  ls
+  276  git checkout htmlfinal
+  277  git pull
+  278  ls
+  279  git status
+  280  rm -r style
+  281  ls
+  282  git status
+  283  git rm -r style
+  284  git status
+  285  git checkout main
+  286  git merge htmlfinal
+  287  git commit -m "fusion html"
+  288  git push 
+  289  ls
+  290  git status
+  291  ls
+  292  git pushj
+  293  git push origin
+  294  git status
+  295  git pull origin main
+  296  ls
+  297  git status
+  298  git merge 
+  299  git merge htmlfinal
+  300  git checkout htmlfinal
+  301  git push
+  302  git status
+  303  git checkout htmlfinal
+  304  git rm -r style/
+  305  git status
+  306  git push origin htmlfinal
+  307  ls
+  308  rm -r style/
+  309  git add .
+  310  git commit -m "resolution probleme"
+  311  git push origin htmlfinal
+  312  git checkout main
+  313  git pull origin main
+  314  ms
+  315  ls
+  316  git merge htmlfinal
+  317  ls
+  318  git status
+  319  git commit -m "fusions"
+  320  git push origin main
+  321  git checkout main
+  322  git checkout htmlfinal -- .
+  323  git commit -m "fusion"
+  324  git push origin main
+  325  git checkout main
+  326  git merge imagefin
+  327  git commit -m "fusion image fin"
+  328  git push origin main
+  329  git checkout main
+  330  git checkout imagefin -- .
+  331  git branch
+  332  git commit -m "fusion image fin"
+  333  git push origin main
+  334  git status
+  335  ls
+  336  rm -r mobile.css style/
+  337  git status
+  338  git rm .
+  339  git rm -r .
+  340  git push origin main
+  341  git status
+  342  git push origin
+  343  ls
+  344  git pull origin main
+  345  ls
+  346  git status
+  347  git branch
+  348  git checkout htmlfinal -- .
+  349  git commit -m "fusion html"
+  350  git push origin main
+  351  git pull origin main
+  352  ls
+  353  git checkout imagefin -- .
+  354  git commit -m "fusion image"
+  355  git push origin main
+  356  history
