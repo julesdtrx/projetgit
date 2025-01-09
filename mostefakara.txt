@@ -1,0 +1,241 @@
+    1  git branch hajarcss
+    2  cd /user
+    3  cd /home
+    4  cd user
+    5  cd /home
+    6  ls
+    7  cd /user
+    8  cd user
+    9  cd /home/user
+   10  ls
+   11  cd git
+   12  ls
+   13  git remote add origin https://github.com/julesdtrx/projetgit.git
+   14  git remote remove origin
+   15  git config --global --add safe.directory /home/user/git
+   16  git remote remove origin
+   17  ls
+   18  git remote add origin https://github.com/julesdtrx/projetgit.git
+   19  gite remote -v
+   20  git remote -v
+   21  git remote remove origin
+   22  cd nesrine
+   23  git remote remove origin
+   24  git config --global --add safe.directory /home/user/git
+   25  git remote remove origin
+   26  git config --global --add safe.directory /home/user/git/nesrine
+   27  git remote remove origin
+   28  cd
+   29  git config --global --add safe.directory /home/user/git
+   30  ls
+   31  /git
+   32  cd git
+   33  ls
+   34  git remote add origin https://github.com/julesdtrx/projetgit.git
+   35  git remote set-url https://github.com/julesdtrx/projetgit.git
+   36  git remote set-url origin https://github.com/julesdtrx/projetgit.git
+   37  ipconfig
+   38  config
+   39  iconfig
+   40  suod apt install ipmiutil
+   41  sudo apt install ipmiutil
+   42  suod apt install ipmiutil
+   43  sudo apt install ipmiutil
+   44  iconfig
+   45  cd
+   46  iconfig
+   47  cd config
+   48  cd /home/user/git
+   49  ls -l .git/config
+   50  sudo chown -R $(whoami) /home/user/git
+   51  ls -l .git/config
+   52  git remote set-url origin https://github.com/julesdtrx/projetgit.git
+   53  git remote -v
+   54  git branch
+   55  git branch csshajar
+   56  git checkout csshajar
+   57  git branch
+   58  mkdir style
+   59  cd mkdir
+   60  cd style
+   61  touch style.css
+   62  git style.css
+   63  nano style.css
+   64  code style.css
+   65  sudo snap install code
+   66  sudo apt install code
+   67  git add style.css
+   68  git commit -m "1 er ajout fichier style.css"
+   69  git push origin main
+   70  git remote -v
+   71  git push origin hajar css
+   72  git push origin hajarcss
+   73  git remote -v
+   74  git branch
+   75  git push origin css branch
+   76  git push origin csshajar
+   77  cd ..
+   78  git remote -v
+   79  git branch htmlhajar
+   80  git checkout html hajar
+   81  git checkout htmlhajar
+   82  git pull origin juleshtml
+   83  ls
+   84  git checkout juleshtml
+   85  git pull origin juleshtml
+   86  ls
+   87  git branch
+   88  git branch hajarhtml
+   89  git checkout hajarhtml
+   90  ls
+   91  nano index.html
+   92  git add index.html
+   93  git commit -m "3 eme modif index"
+   94  git push origin hajarhtml
+   95  git checkout larissamobile
+   96  git branch
+   97  git pull origin larissamobile
+   98  git checkout larissamobile
+   99  git branch
+  100  ls
+  101  git branch hajarmobile
+  102  nano mobile.css
+  103  iconfig
+  104  nano mobile.css
+  105  add mobile.css
+  106  git add mobile.css
+  107  git commit -m "2 modif mobile"
+  108  git push origin hajarmobile
+  109  git pull original cssfinal
+  110  git checkout cssfinal
+  111  git branch
+  112  git pull original cssfinal
+  113  git checkout cssfinal
+  114  git branch
+  115  git pull origin cssfinal
+  116  git checkout cssfinal
+  117  git branch
+  118  git branch -d cssfinal
+  119  git branch -D cssfinal
+  120  git push origin --delete cssfinal
+  121  history
+  122  touch mostefakara.txt
+  123  history > mostefakara.txt
+  124  nano mostefakara.txt
+  125  scp mostefakara.txt user@192.168.16.1:C:\Users\nhaja
+  126  ssh-keygen -t rsa
+  127  ssh-cpy-id user@192.168.1.16
+  128  git branch
+  129  git checkout main
+  130  git merge htmlfinal
+  131  git pull origin htmlfinal
+  132  git branch
+  133  git config pull.rebase false
+  134  git pull origin htmlfinal
+  135  git branch
+  136  git branch htmlfinal
+  137  git branch
+  138  git pull origin htmlfinal
+  139  git branch
+  140  git branch htmlfinal
+  141  git branch main
+  142  git branch
+  143  git merge htmlfinal
+  144  git commit -m "fusion du html dans main "
+  145  git push origin main
+  146  git pull origin main
+  147  git push origin main
+  148  git pull origin main
+  149  git pull origin main --allow-unrelated-histories
+  150  git push origin main
+  151  git push origin main --force
+  152  git branch
+  153  git merge htmlfinal
+  154  git commit
+  155  git commit "final"
+  156  git push origin main
+  157  git pull origin main
+  158  git push origin main
+  159  git pull origin cssfinal2
+  160  git branch
+  161  git checkout cssfinal2
+  162  git branch
+  163  git checkout cssfinal2
+  164  git status
+  165  git rm index.html
+  166  git add .
+  167  ls
+  168  git add hajar mostefakara.txt nesrine
+  169  git commit -m "ajout"
+  170  git checkout cssfinal2
+  171  git pull original cssfinal2
+  172  git branch
+  173  git checkout main
+  174  git merge cssfinal2
+  175  git commit
+  176  git push original main
+  177  git commit
+  178  git merge cssfinal2
+  179  git branch
+  180  git pull original main
+  181  git commit
+  182  ls
+  183  rm -m nesrine
+  184  rm rm nesrine
+  185  rm -r nesrine
+  186  git commit
+  187  git remote -v
+  188  git commit
+  189  git merge cssfinal2
+  190  git init
+  191  git merge cssfinal2
+  192  git commit
+  193  git commit .
+  194  git commit "modif"
+  195  git commit style
+  196  git push original main
+  197  ls
+  198  rm -r deux.txt
+  199  rm -r fichier.txt
+  200  rm -r jj.txt
+  201  rm -r mostefakara.txt
+  202  rm -r tapati.txt
+  203  rm -r test2.txt
+  204  rm -r test4.txt
+  205  rm -r test5.txt
+  206  ls
+  207  rm -r test.txt
+  208  git commit image
+  209  ls
+  210  rm -r hajar
+  211  git branch
+  212  git merge cssfinal2
+  213  git commit
+  214  git status
+  215  git submodule deinit -f hajar
+  216  git rm -r --cached hajar
+  217  rm -rf hajar
+  218  git commit
+  219  git submodule deinit -f nesrine
+  220  git commit
+  221  git rm -r --cached nesrine
+  222  git commit
+  223  git main
+  224  git branch
+  225  git merge cssfinal2
+  226  git add .
+  227  git commit -m "fusion de cssfinal2 dans main"
+  228  gis status
+  229  git status
+  230  git push origin main
+  231  git pull origin main
+  232  git push origin main
+  233  git fetch origin
+  234  git log main..origin/main
+  235  git pull origin main --rebase
+  236  git add .
+  237  git rebase --continue
+  238  git push origin main
+  239  history
+  240  touch mostefakara.txt
+  241  history > mostefakara.txt
