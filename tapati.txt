@@ -1,0 +1,136 @@
+    cd Documents/
+    git init
+    git clone https://github.com/julesdutrx/projetgit.git
+    git clone https://github.com/julesdtrx/projetgit.git
+    cd projetgit
+    touch README.md
+    touch LICENSE.ms
+    touch gitignore
+    git add README.md LICENSE.ms gitignore
+    git commit -m "fichier important"
+    git config user.email "tapatilarissa@gmail.com"
+    git config user.name "tapatiLarissa"
+    git commit -m "fichier important"
+    push -u origine master
+    git push -u origine master
+    git push -u origin master
+    git push origin master
+    git push -u origin main
+    git checkout -b mobile
+    git add mobile
+    touch mobile.txt
+    git add mobile.txt
+    git commit -m "larissa"
+    git push -u mobile
+    git push -u origin mobile
+    git branch
+    git checkout main
+    git branch
+    git checkout -b larissahtml
+    git merge juledtxhtlm
+    git checkout main
+    git branch
+    git clone https://github.com/julesdtrx/projetgit.git
+    git branch
+    git pull origin juleshtml
+    git branch
+    git checkout larisshtml
+    git checkout larissahtml
+    git pull origin juleshtml
+    ls
+    git branch
+    nano index.html
+    git add index.html
+    git -m commit "modif de larissa"
+    git commit -m "modif de larissa"
+    git push -u origin larissahtml
+    git branch
+    git rm LICENSE.ms README.md gitignore
+    git commit -m "supprimer des copies"
+    git push origin larissahtml
+    git checkout -b larissamobile
+    touch mobile.js
+    nano mobile.js
+    rm mobile js
+    rm mobile.js
+    touch mobile.css
+    nano mobile.js
+    nano mobile.css
+    git add mobile.css
+    git commit -m "la version mobile"
+    git push -u larissamobile
+    git push -u origin larissamobile
+    git checout main
+    git chekcout main
+    git checkout main
+    git branch
+    git checkout -b csslarissa
+    git pull csshajar
+    git pull origin csshajar
+    ls
+    rm gitignore LICENSE.ms README.md
+    ls
+    cd projetgit
+    ls
+    cd projetgit
+    cd ..
+    git branch
+    git pull origin csshajar
+    ls
+    git branch
+    rm index.html
+    ls
+    rm projetgit
+    git pull style
+    git pull origin  style
+    git pull origin  csshajar/style
+    git pull origin csshajar/style
+    git pull origin csshajar
+    git check main
+    git checkout main
+    git checkout csslarissa
+    git pull csshajar
+    git pull origin csshajar
+    git clone https://github.com/julesdtrx/projetgit.git
+    ls
+    cd projetgit
+    ls
+    cd ..
+    git rm -r gitprojet
+    git rm -r projetgit
+    git rm projetgit
+    ls
+    git checkout main
+    git checkout -b larissacss
+    git pull csshajar
+    git pull csshajar/style
+    git pull csshajar
+    git pull projetgit csshajar
+    git fetch projetgit
+    git pull projetgit csshajar
+    git branch
+    ls
+    git pull csshajar
+    git pull origin csshajar
+    sudo chown -R $(whoami)/home/user/git
+    git pull origin csshajar
+    git remote add csshajar https://github.com/julesdtrx/projetgit.git/
+    git pull origin csshajar
+    git pull origin csshajar
+    git status
+    git commit -a
+    git status
+    git commit -a
+    git pull origin csshajar
+    ls
+    nano style
+    cd style
+    ls
+    nano style.css
+    rm -r projetgit
+    git rm -r projetgit
+    git add style.css
+    git commit -m "modif larissa"
+    git push -u origin larissa.css
+    git push -u origin larissacss
+    history
