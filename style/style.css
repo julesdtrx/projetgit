@@ -10,12 +10,12 @@ body{
 }
 header{
 	width: 100%;
-	background-color: lightcyan;
-	text-align: center;
+	background-color: red; /* modification du fichier css par jules, changement de couleur simple */
+	justify-content: center;
 	align-items: center;
 }
 main{
-	background: lightpink;
+	background: blue;
 	width: 70%;
 }
 footer{
