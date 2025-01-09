@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	body{
+		display: flex;
+		flex-wrap: wrap;
+		background: lightblue;
+}
+header{
+	width: 100%;
+	background-color: lightcyan;
+	text-align: center;
+	align-items: center;
+}
+main{
+	background: lightpink;
+	width: 70%;
+}
+footer{
+	background: lightyellow;
+	width: 30%;
+}
+}
